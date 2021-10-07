@@ -1,4 +1,4 @@
-on https://replit.com add packages (same like in file packages.json)
+on https://replit.com add packages (same like in file package.json)
 
 
 Add file Contract.json in folder src\utils    (after compiling Contaract.sol, from folder "Artifacts" file Contract.json) 
