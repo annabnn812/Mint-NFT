@@ -1,0 +1,12 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "RandomPic",
+  "sourceName": "contracts/RandomPic.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    ///etc....
+
